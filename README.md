@@ -1,13 +1,14 @@
-# Calculadora em Angular 12:
+# Calculadora
 
-Tem como objetivo,  criar um projeto prático e simples utilizando o 
-Angular 12, Bootstrap 4 e os fundamentos do Angular e Typescript.
+Projeto Calculadora desenvolvido em Angular 12
 
-Foi criando um módulo, um componente e um serviço para a aplicação. 
-Também foi realizado testes unitário no service e no componente com sucesso.
+## Desenvolvimento:
 
-Espero evoluir sempre no aprendizado, 
-
-Obrigado a todos!
-
-Edilson Sousa
+- Criar módulos, componentes e serviços;
+- Criar testes unitários;
+- Documentar o código;
+- Utilizar operadores de atribuição (Property Binding) e eventos 
+(Event Binding);
+- Uso de injeção de dependências;
+- Integrar no Angular frameworks externos;
+- Uso do bootstrap 4.
